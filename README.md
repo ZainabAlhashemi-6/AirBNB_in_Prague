@@ -70,8 +70,3 @@ The analysis was structured into the following steps:
 * `Zainab_Alhashemi_Airbnb_Presentation.pptx` → Full presentation of the analysis.
 
 
----
-
----
-
-Would you like me to also **export this into a ready-to-use `README.md` file** and give you the download link?
